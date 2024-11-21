@@ -1,14 +1,11 @@
 [package]
 name = "rustdo"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "MIT"
 readme = "README.md"
 repository = "https://github.com/CBSpeir/rustdo"
-homepage = "https://github.com/CBSpeir/rustdo"
-description = """
-An idiomatic DigitalOcean API wrapper."
-"""
+description = "An idiomatic DigitalOcean API wrapper"
 keywords = ["digitalocean", "api"]
 categories = ["api-bindings"]
 
